@@ -1,5 +1,3 @@
-11 lines (11 sloc)  384 Bytes
-
 N10 = int(input('Введите исходное 10-тичное число: '))
 p = 1
 while ((p<2) or (p>9)):
