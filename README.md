@@ -12,5 +12,6 @@
 - Калькулятор для 2х чисел, со спецкурса (TestFunction.py)
 - Немного об алхимических рецептах Морровинда (Потапова.pdf)
 - Тестовые строки в jupiter notebook c урока (Test-checkpoint.ipynb)
+- Алгоритм Хемминга в jupyter notebook (Hamming_Algorithm-checkpoint.ipynb)
 
 И файлы с решениями заданий ЕГЭ.
