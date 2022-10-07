@@ -14,4 +14,4 @@
 - Тестовые строки в jupiter notebook c урока (Test-checkpoint.ipynb)
 - Алгоритм Хемминга в jupyter notebook (Hamming_Algorithm-checkpoint.ipynb)
 
-И файлы с решениями заданий ЕГЭ.
+И файлы с решениями заданий ЕГЭ (их названия начинаются с префикса "ЕГЭ").
