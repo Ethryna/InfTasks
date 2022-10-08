@@ -11,7 +11,7 @@
 - Перевод из десятичной СС в указанную (СС.py)
 - Калькулятор для 2х чисел, со спецкурса (TestFunction.py)
 - Немного об алхимических рецептах Морровинда (Потапова.pdf)
-- Тестовые строки в jupiter notebook c урока (Test-checkpoint.ipynb)
-- Алгоритм Хемминга в jupyter notebook (Hamming_Algorithm-checkpoint.ipynb)
+- Тестовые строки в jupiter notebook c урока (Test.ipynb)
+- Алгоритм Хемминга в jupyter notebook (Hamming_Algorithm.ipynb)
 
 И файлы с решениями заданий ЕГЭ (их названия начинаются с префикса "ЕГЭ").
