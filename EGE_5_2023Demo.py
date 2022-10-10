@@ -12,11 +12,5 @@ while not R>40:
     if Sum % 2 == 1:
         N2S = N2S+'1'
         RS = '11'+N2S[2:len(N2S)]
-    #Перевод обратно в десятичную
-    K = len(RS)
-    for j in range(0, K):
-        Rt = Rt + (int(RS[K-j-1]) * (2**(j)))
-    R = Rt
+    R = int(RS,2)
 print(N)
-    
-    
