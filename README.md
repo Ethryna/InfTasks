@@ -13,6 +13,7 @@
 - Немного об алхимических рецептах Морровинда [Потапова.pdf](https://github.com/Ethryna/InfTasks/blob/main/%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0.pdf)
 - Тестовые строки в jupiter notebook c урока [Test.ipynb](https://github.com/Ethryna/InfTasks/blob/main/Test.ipynb)
 - Алгоритм Хемминга в jupyter notebook [Hamming_Algorithm.ipynb](https://github.com/Ethryna/InfTasks/blob/main/Hamming_Algorithm.ipynb)
+- Нейросеть для сложения и умножения [Нейросеть.png](https://github.com/Ethryna/InfTasks/blob/main/Нейросеть.png)
 
 И файлы с решениями заданий ЕГЭ:
 - [ЕГЭ.md](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD.md)
