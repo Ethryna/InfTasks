@@ -1,11 +1,13 @@
-from turtle import *
+from turtle import *        #импорт модуля
 left(90)
-for i in range(7):
+for i in range(7):          #заданная последовательность команд
     forward(300)
     right(120)
-pu()
-for x in range(1,9):
-    for y in range(1,10):
-        goto(x*30,y*30)
-        dot(5)
+pu()                        #перемещения черепахи больше не оставляют следов
+for x in range(1,9):            #
+    for y in range(1,10):       #
+        goto(x*30,y*30)         #перемещение по точкам четырёхугольника
+        dot(5)                  #отметка точек
 done()
+
+#Осталось только посчитать точки внутри фигуры
