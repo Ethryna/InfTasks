@@ -8,8 +8,8 @@
 - [Морзянка.xlsx](https://github.com/Ethryna/InfTasks/blob/main/%D0%9C%D0%BE%D1%80%D0%B7%D1%8F%D0%BD%D0%BA%D0%B0.xlsx) - морзянка - **Exсel** 
 - [Морзе.py](https://github.com/Ethryna/InfTasks/blob/main/%D0%9C%D0%BE%D1%80%D0%B7%D0%B5.py) - морзянка - **Python** 
 - [Потапова.xlsx](https://github.com/Ethryna/InfTasks/blob/main/%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0.xlsx) - таблицы с СС - **Excel** 
-- [СС.py](https://github.com/Ethryna/InfTasks/blob/main/%D0%A1%D0%A1.py) - перевод из десятичной СС в указанную **Python**
-- [TestFunction.py](https://github.com/Ethryna/InfTasks/blob/main/TestFunction.py) - калькулятор для 2х чисел, со спецкурса **Python**
+- [СС.py](https://github.com/Ethryna/InfTasks/blob/main/%D0%A1%D0%A1.py) - перевод из десятичной СС в указанную - **Python**
+- [TestFunction.py](https://github.com/Ethryna/InfTasks/blob/main/TestFunction.py) - калькулятор для 2х чисел, со спецкурса - **Python**
 - [Потапова.pdf](https://github.com/Ethryna/InfTasks/blob/main/%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0.pdf) - файл с урока по Dillinger.io (немного об алхимических рецептах Морровинда) - **Markdown**
 - [Test.ipynb](https://github.com/Ethryna/InfTasks/blob/main/Test.ipynb) - тестовые строки в Jupyter Notebook c урока - **Jupyter Notebook**
 - [Hamming_Algorithm.ipynb](https://github.com/Ethryna/InfTasks/blob/main/Hamming_Algorithm.ipynb) - алгоритм Хемминга - **Jupyter Notebook**
