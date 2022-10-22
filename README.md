@@ -15,7 +15,7 @@
 - Алгоритм Хемминга в jupyter notebook [Hamming_Algorithm.ipynb](https://github.com/Ethryna/InfTasks/blob/main/Hamming_Algorithm.ipynb)
 - Нейросеть для сложения и умножения [Нейросеть.png](https://github.com/Ethryna/InfTasks/blob/main/Нейросеть.png)
 - Таблицы по алгебре логики [Логика_таблицы.xlsx](https://github.com/Ethryna/InfTasks/blob/main/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B.xlsx)
-- [Electricity_bill_change_excel.png](https://github.com/Ethryna/InfTasks/blob/main/Electricity_bill_change_excel.png)
+- Изменённая таблица со счетами за электричество для соответствия реальных затрат ожидаемым (в Excel) [Electricity_bill_change_excel.png](https://github.com/Ethryna/InfTasks/blob/main/Electricity_bill_change_excel.png)
 
 И файлы с решениями заданий ЕГЭ:
 - [ЕГЭ.md](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD.md)
