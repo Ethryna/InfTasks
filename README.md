@@ -25,3 +25,6 @@
 - [EGE_8_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_8_2023Demo.py)
 - [EGE_6_Turtle_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_6_Turtle_2023Demo.py)
 - [EGE_12_list_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_12_list_2023Demo.py)
+
+## CodePen Account: [Ethryna](https://codepen.io/Ethryna)
+## Wordpress Website: [Praeterhac](https://praeterhac.wordpress.com)
