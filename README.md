@@ -30,9 +30,10 @@
 - [EGE_12_list_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_12_list_2023Demo.py)
 - [EGE_4_2023Demo.md](https://github.com/Ethryna/InfTasks/blob/main/EGE_4_2023Demo.md)
 - [EGE_14_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_14_2023Demo.py)
+- [EGE_15_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_15_2023Demo.py)
 
-**Всего решено:** _1, 2, 3, 4, 5, 6, 8, 11, 12, 13, 14._  
-**Остались:** _7, 9, 10, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27._
+**Всего решено:** _1, 2, 3, 4, 5, 6, 8, 11, 12, 13, 14, 15._  
+**Остались:** _7, 9, 10, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27._
 
 ## CodePen Account: [Ethryna](https://codepen.io/Ethryna)
 ## Wordpress Website: [Praeterhac](https://praeterhac.wordpress.com)
