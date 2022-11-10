@@ -18,8 +18,9 @@
 - [Logic.py](https://github.com/Ethryna/InfTasks/blob/main/Logic.py) - вычисление комбинаций значений _a, b и c_, при которых значение логического выражения _(A & не B -> C) <-> A_ равно 0 - **Python** 
 - [Electricity_bill_change_excel.png](https://github.com/Ethryna/InfTasks/blob/main/Electricity_bill_change_excel.png) - изменённая таблица со счетами за электричество для соответствия реальных затрат ожидаемым в Excel - **скриншот**
 - [AutoPaint.png](https://github.com/Ethryna/InfTasks/blob/main/AutoPaint.png) - раскрашивание букв в Paint с помощью Automatic Mouse and Keyboard - **скриншот**
-- [Law20.md](https://github.com/Ethryna/InfTasks/blob/main/Law20.md) - закон Моргана №20, формула и картинка
+- [Law20.md](https://github.com/Ethryna/InfTasks/blob/main/Law20.md) - закон Моргана №20, формула и картинка - **Latex**
 - [Inf_Flask_site.py](https://github.com/Ethryna/InfTasks/blob/main/Inf_Flask_site.py) - сайт с Flask, начало - **Python**
+- [Latex-Formulas.md](https://github.com/Ethryna/InfTasks/blob/main/Latex-Formulas.md) - три формулы в Latex - **Latex**
 
 И файлы с решениями заданий ЕГЭ:
 - [ЕГЭ.md](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD.md)
