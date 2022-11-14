@@ -35,8 +35,8 @@
 - [EGE_15_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_15_2023Demo.py)
 - [EGE_16_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_16_2023Demo.py)
 
-**Всего решено:** _1, 2, 3, 4, 5, 6, 8, 11, 12, 13, 14, 15, 16._  
-**Остались:** _7, 9, 10, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27._
+**Всего решено:** _1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16._  
+**Остались:** _9, 10, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27._
 
 ## CodePen Account: [Ethryna](https://codepen.io/Ethryna)
 ## Wordpress Website: [Praeterhac](https://praeterhac.wordpress.com)
