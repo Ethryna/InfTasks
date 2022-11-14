@@ -25,6 +25,7 @@
 И файлы с решениями заданий ЕГЭ:
 - [ЕГЭ.md](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD.md)
 - [ЕГЭ_2_03.10.py](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD_2_03.10.py)
+- [EGE_2_2023Demo(Excel).xlsx](https://github.com/Ethryna/InfTasks/blob/main/EGE_2_2023Demo(Excel).xlsx)
 - [EGE_5_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_5_2023Demo.py)
 - [EGE_8_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_8_2023Demo.py)
 - [EGE_6_Turtle_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_6_Turtle_2023Demo.py)
