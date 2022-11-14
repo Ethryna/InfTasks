@@ -21,6 +21,7 @@
 - [Law20.md](https://github.com/Ethryna/InfTasks/blob/main/Law20.md) - закон Моргана №20, формула и картинка - **Latex**
 - [Inf_Flask_site.py](https://github.com/Ethryna/InfTasks/blob/main/Inf_Flask_site.py) - сайт с Flask, начало - **Python**
 - [Latex-Formulas.md](https://github.com/Ethryna/InfTasks/blob/main/Latex-Formulas.md) - три формулы в Latex - **Latex**
+- [UTS - UniversalTasksSolver.py](https://github.com/Ethryna/InfTasks/blob/main/UTS%20-%20UniversalTasksSolver.py) - универсальный решатель задач (пока чистый код) - **Python**
 
 И файлы с решениями заданий ЕГЭ:
 - [ЕГЭ.md](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD.md)
