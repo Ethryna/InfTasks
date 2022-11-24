@@ -22,6 +22,8 @@
 - [Inf_Flask_site.py](https://github.com/Ethryna/InfTasks/blob/main/Inf_Flask_site.py) - сайт с Flask, начало - **Python**
 - [Latex-Formulas.md](https://github.com/Ethryna/InfTasks/blob/main/Latex-Formulas.md) - три формулы в Latex - **Latex**
 - [кодирование6.py](https://github.com/Ethryna/InfTasks/blob/main/кодирование6.py) - универсальный решатель задач (пока чистый код) - **Python**
+- [pictures-in-python.py](https://github.com/Ethryna/InfTasks/blob/main/pictures-in-python.py) - генерация картинок с текстом - **Python**
+- [march.jpg](https://github.com/Ethryna/InfTasks/blob/main/march.jpg) - пример сгенерированной картинки (см. п. выше)
 
 И файлы с решениями заданий ЕГЭ:
 - [ЕГЭ.md](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD.md)
