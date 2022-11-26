@@ -7,11 +7,11 @@ im2.show()
 im3.show()"""
 
 def ImText(s):
-    im = Image.new('RGB', (800, 600), color = ('#007E66'))
-    font1 = ImageFont.truetype('C:/Windows/Fonts/MISTRAL.TTF', size=36)
+    im = Image.new('RGB', (1200, 600), color = ('#007E66'))
+    font1 = ImageFont.truetype('C:/Windows/Fonts/MISTRAL.TTF', size=42)
     draw = ImageDraw.Draw(im)
-    draw.text((140,70), s, font=font1, fill=('#0A0000'))
-    im.show()
+    draw.text((80,279), s, font=font1, fill=('#0A0000'))
+    im.save(f'C:/Users/student/Documents/142Б/{j+1}.jpg')
 
 ls = []
 for i in range(10):
