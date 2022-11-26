@@ -11,7 +11,7 @@ def ImText(s):
     font1 = ImageFont.truetype('C:/Windows/Fonts/MISTRAL.TTF', size=42)
     draw = ImageDraw.Draw(im)
     draw.text((80,279), s, font=font1, fill=('#0A0000'))
-    im.save(f'C:/Users/student/Documents/142Б/{j+1}.jpg')
+    im.save(f'C:/Users/student/Documents/142Б/{j}.jpg')
 
 ls = []
 for i in range(10):
