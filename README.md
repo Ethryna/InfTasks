@@ -44,5 +44,7 @@
 **Всего решено:** _1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16._  
 **Остались:** _9, 10, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27._
 
+- [Excel-notes.md](https://github.com/Ethryna/InfTasks/blob/main/Excel-notes.md) - заметки про формулы Excel
+
 ## CodePen Account: [Ethryna](https://codepen.io/Ethryna)
 ## Wordpress Website: [Praeterhac](https://praeterhac.wordpress.com)
