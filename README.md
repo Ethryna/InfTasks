@@ -26,6 +26,7 @@
 - [march.jpg](https://github.com/Ethryna/InfTasks/blob/main/march.jpg) - пример сгенерированной картинки (см. п. выше)
 - [py-pics-clip-writer.py](https://github.com/Ethryna/InfTasks/blob/main/py-pics-clip-writer.py) - составляет видео (по сути слайд-шоу в формате видео) из картинок в папке и сохраняет туда же - **Python**
 - [Quotes.mp4](https://github.com/Ethryna/InfTasks/blob/main/Quotes.mp4) - пример сгенерированного видео (см. выше)
+- [TES-lore-quiz.py](https://github.com/Ethryna/InfTasks/blob/main/TES-lore-quiz.py) - викторина по лору The Elder Scrolls - **Python**
 
 И файлы с решениями заданий ЕГЭ:
 - [ЕГЭ.md](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD.md)
