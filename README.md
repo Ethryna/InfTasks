@@ -55,8 +55,8 @@
 
 ```mermaid 
 flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|Аттестация| B(11 класс)
+B --> C{ЕГЭ}
+C -->|сдано| D[ВУЗ]
+C -->|завалено| E[Приключения]
 ```
