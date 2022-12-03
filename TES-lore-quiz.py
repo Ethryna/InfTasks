@@ -22,8 +22,7 @@ def checkVal(ans):
 def checkValShort(ans):
     while ans != '1' and ans != '2':
         ans = input()
-    return ans
-    
+    return ans  
 
 def Quiz():
     c = 0
