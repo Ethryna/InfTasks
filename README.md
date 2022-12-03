@@ -48,4 +48,15 @@
 - [Excel-notes.md](https://github.com/Ethryna/InfTasks/blob/main/Excel-notes.md) - заметки про формулы Excel
 
 ## CodePen Account: [Ethryna](https://codepen.io/Ethryna)
-## Wordpress Website: [Praeterhac](https://praeterhac.wordpress.com)
+## Wordpress Website: [Praeterhac](https://praeterhac.wordpress.com)  
+  
+  
+# И прочие заметки:
+
+```mermaid 
+flowchart LR
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
