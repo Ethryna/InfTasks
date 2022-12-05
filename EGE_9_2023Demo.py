@@ -41,6 +41,4 @@ while not EOF:
         r = 0
 
 print(RESLINES)
-
-
-
+tabl.close()
