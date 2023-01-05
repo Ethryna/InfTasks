@@ -26,7 +26,7 @@
 - [TES-lore-quiz.py](https://github.com/Ethryna/InfTasks/blob/main/TES-lore-quiz.py) - викторина по лору The Elder Scrolls - **Python**
 - [Three-nums.py](https://github.com/Ethryna/InfTasks/blob/main/Three-nums.py) - сортировка трёх чисел по возрастанию без новых переменных - **Python**
 
-И файлы с решениями заданий ЕГЭ:
+И файлы с решениями заданий ЕГЭ (за первое полугодие):
 - [ЕГЭ.md](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD.md)
 - [ЕГЭ_2_03.10.py](https://github.com/Ethryna/InfTasks/blob/main/%D0%95%D0%93%D0%AD_2_03.10.py)
 - [EGE_2_2023Demo(Excel).xlsx](https://github.com/Ethryna/InfTasks/blob/main/EGE_2_2023Demo(Excel).xlsx)
