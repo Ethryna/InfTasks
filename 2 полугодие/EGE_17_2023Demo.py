@@ -15,3 +15,30 @@ with open('17.txt') as f:
                if nums[i]**2+nums[i+1]**2>maximum:
                   maximum=nums[i]**2+nums[i+1]**2
    print(len(s), maximum)
+
+   
+   
+   
+   
+   
+#OR
+   
+with open('17.txt') as f:
+a = [int(x) for x in f]
+
+b = list(reversed(sorted(a)))
+for i in b:
+    if abs(i)%10==3:
+        KV = i**2
+        break
+
+c=0
+sKV = 0
+
+for i in range(len(a)-1):
+    if (((abs(a[i])%10==3 and abs(a[i+1])%10!=3) or (abs(a[i])%10!=3 and abs(a[i+1])%10==3)) and (a[i]**2+a[i+1]**2>=KV)):
+        c+=1
+        if (a[i]**2+a[i+1]**2)>sKV:
+            sKV = a[i]**2+a[i+1]**2
+
+print(c, sKV)
