@@ -45,3 +45,6 @@ while True:
 
     input()
         
+
+        
+    # Via binary search, does not work for this task
