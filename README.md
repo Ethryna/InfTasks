@@ -43,8 +43,8 @@
 - [EGE_24_2023Demo.py](https://github.com/Ethryna/InfTasks/blob/main/EGE_24_2023Demo.py)
 - [EGE_13_2023Demo.png](https://github.com/Ethryna/InfTasks/blob/main/EGE_13_2023Demo.png)
 
-**Всего решено:** _1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 19, 20, 21, 24._  
-**Остались:** _10, 18, 22_
+**Всего решено:** _1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27._  
+**Остались:** _10, 22_
 
 - [Excel-notes.md](https://github.com/Ethryna/InfTasks/blob/main/Excel-notes.md) - заметки про формулы Excel
 
