@@ -44,17 +44,17 @@ for i in range(10000):
 print(c)  
 **Ответ: 4** (верно)
   
-# Задание 6
-from turtle import *
-for i in range(10):
-    right(60)
-    forward(10*30)
-    right(60)
-penup()
-for x in range(-5,6):
-    for y in range(-10,1):
-        goto(x*30,y*30)
-        dot(3)
+# Задание 6  
+from turtle import *  
+for i in range(10):  
+    right(60)  
+    forward(10*30)  
+    right(60)  
+penup()  
+for x in range(-5,6):  
+    for y in range(-10,1):  
+        goto(x*30,y*30)  
+        dot(3)  
 **Ответ: 42**  
   
 # Задание 7
