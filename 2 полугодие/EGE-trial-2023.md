@@ -3,3 +3,18 @@
 **Ответ: 21**  
   
 # Задание 2
+
+for x in range(2):  
+    for y in range(2):  
+        for z in range(2):  
+            for w in range(2):  
+                F = (x and (not(y) and z and w or y and not(w)))  
+                if F == 1:  
+                    print(x,y,z,w)  
+                      
+**Ответ: y w z x**
+  
+# Задание 3
+**Ответ: 30633***  
+  
+# Задание 4
