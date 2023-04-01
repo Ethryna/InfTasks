@@ -58,8 +58,18 @@ for x in range(-5,6):
 **Ответ: 42** (верно)  
   
 # Задание 7
-**Ответ: 20**  
+**Ответ: 20** (верно)  
 
 # Задание 8
-print(2(9+18+36+36+36))  
-**Ответ: 276**  
+from itertools import product  
+c=0  
+for x in range(2,7):  
+    a = list(product('еия', repeat=x))  
+    for k in a:  
+        s = ''.join(k)  
+        if (s.count('е')<=2 and s.count('и')<=2 and s.count('я')<=2):  
+            c+=1  
+    print(c)  
+print(3*c-9)  
+  
+**Ответ: 792**  
