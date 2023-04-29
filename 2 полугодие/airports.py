@@ -84,6 +84,3 @@ for p in waysR:
     wR.append(Y)
 print(waysL)
 print(wR)
-        
-        
-        
